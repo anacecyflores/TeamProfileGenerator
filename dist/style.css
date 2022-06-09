@@ -3,12 +3,12 @@
 }
 
 :root {
-    --primary: rgb(229, 168, 168);
-    --secondary: rgb(116, 93, 93);
+    --primary: rgb(188, 153, 233);
+    --secondary: rgb(85, 28, 95);
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Joan', serif;
 }
 
 #navbar {
@@ -34,7 +34,6 @@ body {
 
 .container {
     margin: 100px auto;
-    justify-content: space-evenly;
-    display: flex;
-
+        justify-content:space-around flex;
+    /* justify-content: space-evenly; */
 }
