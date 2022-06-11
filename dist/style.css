@@ -30,6 +30,7 @@ body {
 .card-body {
     background-color: var(--secondary);
     color: var(--primary);
+        opacity: 0.5;
 }
 
 .container {

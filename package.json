@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/anacecyflores1/TeamProfileGenerator#readme",
   "devDependencies": {
-    "jest": "^28.1.1"
+    "jest": "^28.1.1",
+    "nodemon": "^2.0.16"
   },
   "dependencies": {
     "inquirer": "^8.2.4"
